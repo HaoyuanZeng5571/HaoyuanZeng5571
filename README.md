@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Haoyuan Zeng
 
+- 📫 How to reach me: zhy5571ff@gmail.com
 <!--
 **HaoyuanZeng5571/HaoyuanZeng5571** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
