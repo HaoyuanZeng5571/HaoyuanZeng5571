@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/HaoyuanZeng5571" target="_blank">
-    <img src="https://img.shields.io/github/followers/ChengGuang-Li?label=Follow%20Me&style=social"/>
+    <img src="https://img.shields.io/github/followers/HaoyuanZeng5571?label=Follow%20Me&style=social"/>
   </a>
 
 <!--
