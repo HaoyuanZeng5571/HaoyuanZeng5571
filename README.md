@@ -1,5 +1,8 @@
 ### Hi there 👋, I'm Haoyuan Zeng
 
+- 🔭 I’m currently working on on something cool
+- 🌱 I’m currently learning AWS
+- 💬 Ask me about projects collaboration
 - 📫 How to reach me: zhy5571ff@gmail.com
 
 <p align="center">
